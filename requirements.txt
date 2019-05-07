@@ -1,0 +1,6 @@
+fiona
+folium
+haversine
+pandas
+requests
+shapely
